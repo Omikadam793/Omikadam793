@@ -1,13 +1,13 @@
 # Hi there, I'm Omkar Kadam 👋
 
-I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring Software Developer** based in Mumbai, Maharashtra[cite: 1]. I specialize in building end-to-end web applications, robust APIs, and intelligent data-driven tools[cite: 1]. I love bridging the gap between clean backend architectures and highly interactive frontends[cite: 1].
+I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring Software Developer** based in Mumbai, Maharashtra. I specialize in building end-to-end web applications, robust APIs, and intelligent data-driven tools. I love bridging the gap between clean backend architectures and highly interactive frontends.
 
 ---
 
 ### 🚀 What I Do
-- 🛠️ **Backend Engineering:** Crafting scalable APIs, concurrent systems, and microservices using Python (FastAPI, Flask) and Node.js[cite: 1].
-- 🎨 **Frontend Development:** Designing fluid, responsive user interfaces with React and JavaScript[cite: 1].
-- 🗄️ **Database Design:** Architecting schemas across relational (PostgreSQL, MySQL, SQLite) and non-relational (MongoDB) databases[cite: 1].
+- 🛠️ **Backend Engineering:** Crafting scalable APIs, concurrent systems, and microservices using Python (FastAPI, Flask) and Node.js.
+- 🎨 **Frontend Development:** Designing fluid, responsive user interfaces with React and JavaScript.
+- 🗄️ **Database Design:** Architecting schemas across relational (PostgreSQL, MySQL, SQLite) and non-relational (MongoDB) databases.
 - 🧵 **Systems & Concurrency:** Implementing low-level multithreading, socket programming, and client-server network architectures.
 
 ---
@@ -44,13 +44,13 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 
 🌐 **[Support Ticket CRM](https://support-crm-frontend.vercel.app/)**  
 *Full-Stack Customer Support Management Platform*
-- Developed a high-concurrency SPA architecture using **React (Vite)** and **Node.js/Express.js**[cite: 1].
-- Designed secure database storage with **PostgreSQL** and configured automated CI/CD pipelines deployed over **Vercel** and **Render**[cite: 1].
+- Developed a high-concurrency SPA architecture using **React (Vite)** and **Node.js/Express.js**.
+- Designed secure database storage with **PostgreSQL** and configured automated CI/CD pipelines deployed over **Vercel** and **Render**.
 
 ⛓️ **[Blockchain Transaction System](https://blockchain-transaction-system.vercel.app/)**  
 *Layer 1 Engine & Cryptographic Visualizer*
-- Engineered a self-contained Layer 1 blockchain engine from scratch using **Python (FastAPI)** to isolate transaction state computations[cite: 1].
-- Implemented a priority-driven cryptographic Mempool queue that dynamically ranks and processes transaction payloads[cite: 1].
+- Engineered a self-contained Layer 1 blockchain engine from scratch using **Python (FastAPI)** to isolate transaction state computations.
+- Implemented a priority-driven cryptographic Mempool queue that dynamically ranks and processes transaction payloads.
 
 💬 **[Multithreaded Chat Simulator](https://multithreaded-chat-simulator-production.up.railway.app/)**  
 *Concurrent Client-Server Communication Network*
