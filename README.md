@@ -63,8 +63,8 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omikadam793&show_icons=true&theme=visual&count_private=true" alt="Omkar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omikadam793&layout=compact&theme=visual" alt="Top Languages" width="45%" />
+  <img src="https://omikadam793.vercel.app/api?username=Omikadam793&show_icons=true&theme=visual" alt="Omkar's GitHub Stats" width="48%" />
+  <img src="https://omikadam793.vercel.app/api/top-langs/?username=Omikadam793&layout=compact&theme=visual" alt="Top Languages" width="45%" />
 </p>
 
 ---
@@ -74,5 +74,5 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-kadam-50247b29a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkadam0793@gmail.com)
 
-- 📍 Location: Mumbai, Maharashtra, India[cite: 1]
-- 🎓 Education: B.E. in Information Technology, Konkan Gyanpeeth College of Engineering (2022 - 2026)[cite: 1]
+- 📍 Location: Mumbai, Maharashtra, India
+- 🎓 Education: B.E. in Information Technology, Konkan Gyanpeeth College of Engineering (2022 - 2026)
