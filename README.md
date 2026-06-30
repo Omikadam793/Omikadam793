@@ -63,10 +63,9 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 ### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://omikadam793.vercel.app/api?username=Omikadam793&show_icons=true&theme=visual" alt="Omkar's GitHub Stats" width="48%" />
-  <img src="https://omikadam793.vercel.app/api/top-langs/?username=Omikadam793&layout=compact&theme=visual" alt="Top Languages" width="45%" />
+  <img src="./github-metrics.svg" alt="Omkar's GitHub Stats" width="48%" />
+  <img src="./github-top-langs.svg" alt="Top Languages" width="45%" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
