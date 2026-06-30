@@ -1,14 +1,14 @@
 # Hi there, I'm Omkar Kadam 👋
 
-I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring Software Developer** based in Mumbai, Maharashtra. I specialize in building end-to-end web applications, robust APIs, and intelligent data-driven tools. I love bridging the gap between clean backend architectures and highly interactive frontends.
+I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring Software Developer** based in Mumbai, Maharashtra[cite: 1]. I specialize in building end-to-end web applications, robust APIs, and intelligent data-driven tools[cite: 1]. I love bridging the gap between clean backend architectures and highly interactive frontends[cite: 1].
 
 ---
 
 ### 🚀 What I Do
-- 🛠️ **Backend Engineering:** Crafting scalable APIs and microservices using Python (FastAPI, Flask) and Node.js.
-- 🎨 **Frontend Development:** Designing fluid, responsive user interfaces with React and JavaScript.
-- 🗄️ **Database Design:** Architecting schemas across relational (PostgreSQL, MySQL, SQLite) and non-relational (MongoDB) databases.
-- 🤖 **AI Integration:** Implementing intelligent, context-locked AI tutoring assistants and NLP pipelines.
+- 🛠️ **Backend Engineering:** Crafting scalable APIs, concurrent systems, and microservices using Python (FastAPI, Flask) and Node.js[cite: 1].
+- 🎨 **Frontend Development:** Designing fluid, responsive user interfaces with React and JavaScript[cite: 1].
+- 🗄️ **Database Design:** Architecting schemas across relational (PostgreSQL, MySQL, SQLite) and non-relational (MongoDB) databases[cite: 1].
+- 🧵 **Systems & Concurrency:** Implementing low-level multithreading, socket programming, and client-server network architectures.
 
 ---
 
@@ -44,18 +44,19 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 
 🌐 **[Support Ticket CRM](https://support-crm-frontend.vercel.app/)**  
 *Full-Stack Customer Support Management Platform*
-- Developed a high-concurrency SPA architecture using **React (Vite)** and **Node.js/Express.js**.
-- Designed secure database storage with **PostgreSQL** and configured automated CI/CD pipelines deployed over **Vercel** and **Render**.
+- Developed a high-concurrency SPA architecture using **React (Vite)** and **Node.js/Express.js**[cite: 1].
+- Designed secure database storage with **PostgreSQL** and configured automated CI/CD pipelines deployed over **Vercel** and **Render**[cite: 1].
 
 ⛓️ **[Blockchain Transaction System](https://blockchain-transaction-system.vercel.app/)**  
 *Layer 1 Engine & Cryptographic Visualizer*
-- Engineered a self-contained Layer 1 blockchain engine from scratch using **Python (FastAPI)** to isolate transaction state computations.
-- Implemented a priority-driven cryptographic Mempool queue that dynamically ranks and processes transaction payloads.
+- Engineered a self-contained Layer 1 blockchain engine from scratch using **Python (FastAPI)** to isolate transaction state computations[cite: 1].
+- Implemented a priority-driven cryptographic Mempool queue that dynamically ranks and processes transaction payloads[cite: 1].
 
-🤖 **AI-Powered Learning Management System (LMS)**  
-*Intelligent Structural Learning Platform*
-- Built a secure dynamic platform featuring course catalogs, student enrollments, and seamless payment integration via **Razorpay**.
-- Created an intelligent AI-assistant using **NLP** for context-locked tutoring and automated quiz generation. Powered by **FastAPI, React, and Clerk**.
+💬 **[Multithreaded Chat Simulator](https://github.com/Omikadam793/Multithreaded-Chat-Simulator)**  
+*Concurrent Client-Server Communication Network*
+- Engineered a real-time terminal-based chat simulator utilizing **Python's `socket`** library and native networking protocols.
+- Implemented advanced **multithreading (`threading` module)** to handle concurrent client connections dynamically, ensuring zero-blocking request handling.
+- Optimized network resource management by writing clean connection lifecycles, structured error catching, and socket termination protocols.
 
 ---
 
@@ -73,5 +74,5 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omkar-kadam-50247b29a)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkarkadam0793@gmail.com)
 
-- 📍 Location: Mumbai, Maharashtra, India
-- 🎓 Education: B.E. in Information Technology, Konkan Gyanpeeth College of Engineering (2022 - 2026)
+- 📍 Location: Mumbai, Maharashtra, India[cite: 1]
+- 🎓 Education: B.E. in Information Technology, Konkan Gyanpeeth College of Engineering (2022 - 2026)[cite: 1]
