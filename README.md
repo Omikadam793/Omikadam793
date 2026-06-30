@@ -52,7 +52,7 @@ I am an **Information Technology student (B.E., 2022-2026)** and an **aspiring S
 - Engineered a self-contained Layer 1 blockchain engine from scratch using **Python (FastAPI)** to isolate transaction state computations[cite: 1].
 - Implemented a priority-driven cryptographic Mempool queue that dynamically ranks and processes transaction payloads[cite: 1].
 
-💬 **[Multithreaded Chat Simulator](https://github.com/Omikadam793/Multithreaded-Chat-Simulator)**  
+💬 **[Multithreaded Chat Simulator](https://multithreaded-chat-simulator-production.up.railway.app/)**  
 *Concurrent Client-Server Communication Network*
 - Engineered a real-time terminal-based chat simulator utilizing **Python's `socket`** library and native networking protocols.
 - Implemented advanced **multithreading (`threading` module)** to handle concurrent client connections dynamically, ensuring zero-blocking request handling.
